@@ -21,24 +21,25 @@ img {
     border-radius: 12px;
 }
 
-h2,
+h1,
 p {
     text-align: center;
 }
 
-h2 {
+h1 {
     color: hsl(218, 44%, 22%);
+    font-size: 24px;
 }
 
 p {
     margin-top: 16px;
     font-size: 15px;
-    padding: 0 8px;
     color: hsl(220, 15%, 55%);
+    padding: 0 18px;
 }
 
 .card {
-    max-width: 340px;
+    max-width: 300px;
     padding: 18px;
     border-radius: 30px;
     background-color: hsl(0, 0%, 100%);
@@ -48,5 +49,4 @@ p {
 .text {
     margin-top: 16px;
     margin-bottom: 16px;
-    padding: 0 32px;
 }
